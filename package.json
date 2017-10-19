@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "{{ name }}",
+  "name": "tzmanics-weblog",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {

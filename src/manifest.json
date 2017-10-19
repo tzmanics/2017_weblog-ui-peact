@@ -1,6 +1,6 @@
 {
-  "name": "{{ name }}",
-  "short_name": "{{ name }}",
+  "name": "weblog-tzmanics",
+  "short_name": "weblog-tzmanics",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
